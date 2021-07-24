@@ -1,2 +1,3 @@
 android studio 4.2.2
 Android SDK Platform-Tools revision 31.0.2
+AGP dependency 4.2.2
